@@ -1,5 +1,5 @@
 requirejs.config({
-    baseUrl: 'js',
+    baseUrl: 'dist/js',
     paths: {
         jquery: 'jquery-3.1.0',
         underscore: 'underscore',
